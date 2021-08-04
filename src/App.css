@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  color: bisque;
+}
+
+button {
+  background-color: burlywood;
+  color: #000;
+  padding: 10px 25px;
+  border-radius: none;
+  border: none;
+  margin-right: 10px;
+}
